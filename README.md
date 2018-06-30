@@ -1,7 +1,7 @@
 # DiceBear Avatars
 
 ![license](https://img.shields.io/github/license/dicebear/avatars.svg)
-[![npm](https://img.shields.io/npm/v/@dicebear/avatars.svg)](https://www.npmjs.com/package/@dicebear/avatars)
+[![npm](https://img.shields.io/npm/v/@dicebear/avatars.svg)](https://www.npmjs.com/package/@dicebear/avatars) [![Greenkeeper badge](https://badges.greenkeeper.io/DiceBear/avatars.svg)](https://greenkeeper.io/)
 
 Avatars is a free pixel-art avatar placeholder library with HTTP-API.  
 Test in your Browser: [avatars.dicebear.com](https://avatars.dicebear.com)
